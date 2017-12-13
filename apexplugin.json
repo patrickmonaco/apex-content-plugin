@@ -1,0 +1,33 @@
+{
+  "name" : "Documents Cloud Applink",
+  "version" : "0.2",
+  "description" : "This plugin displays the content of either a folder by relying on applink feature of Oracle Content & Experience Cloud Service (formerly Oracle documents Cloud Service).",
+  "keywords" : ["content", "documents", "cloud", "iframe"],
+  "homepage" : "https://github.com/patrickmonaco/apex-content-plugin",
+  "bugs" : {
+    "url" : "https://github.com/patrickmonaco/apex-content-plugin/issues",
+    "email" : "patrick.monaco@gpmfactory.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Patrick Monaco",
+    "email" : "patrick.monaco@gpmfactory.com",
+    "url" : "https://gpmfactory.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/patrickmonaco/apex-content-plugin.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "COM.GPMFACTORY.ORADOCS",
+        "type" : "region",
+        "demo" : "",
+        "previewImage" : "https://github.com/patrickmonaco/apex-content-plugin/blob/master/apex22.PNG"
+      }
+    }
+  }
+}

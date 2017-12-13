@@ -1,6 +1,6 @@
 {
   "name" : "Documents Cloud Applink",
-  "version" : "0.2",
+  "version" : "v0.2-beta.1",
   "description" : "This plugin displays the content of either a folder by relying on applink feature of Oracle Content & Experience Cloud Service (formerly Oracle documents Cloud Service).",
   "keywords" : ["content", "documents", "cloud", "iframe"],
   "homepage" : "https://github.com/patrickmonaco/apex-content-plugin",

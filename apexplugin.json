@@ -25,7 +25,7 @@
       "plugin" : {
         "internalName" : "COM.GPMFACTORY.ORADOCS",
         "type" : "region",
-        "demo" : "https://apex.oracle.com",
+        "demo" : "https://raw.githubusercontent.com/patrickmonaco/apex-content-plugin/master/apex22.PNG",
         "previewImage" : "https://raw.githubusercontent.com/patrickmonaco/apex-content-plugin/master/apex21.PNG"
       }
     }
